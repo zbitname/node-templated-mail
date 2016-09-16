@@ -1,0 +1,26 @@
+{
+  "name": "templated-mail",
+  "version": "1.0.0",
+  "description": "Tool for sending templated mail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mail",
+    "template",
+    "sendmail"
+  ],
+  "author": "Alexey Kheben",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "4.0.5",
+    "html-to-text": "2.1.3",
+    "nodemailer": "2.5.0"
+  },
+  "devDependencies": {
+    "argv": "0.0.2",
+    "eslint": "3.3.1",
+    "eslint-config-google": "^0.6.0"
+  }
+}
