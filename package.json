@@ -22,5 +22,13 @@
     "argv": "0.0.2",
     "eslint": "3.3.1",
     "eslint-config-google": "^0.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbitname/node-templated-mail.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zbitname/node-templated-mail/issues"
+  },
+  "homepage": "https://github.com/zbitname/node-templated-mail#readme"
 }
