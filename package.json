@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "argv": "0.0.2",
-    "eslint": "3.3.1",
+    "eslint": "6.6.0",
     "eslint-config-google": "^0.6.0"
   },
   "repository": {
